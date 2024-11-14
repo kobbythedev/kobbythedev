@@ -1,4 +1,5 @@
 About Me
+
 👋 Hi there! I'm a 19-year-old junior front-end developer with a passion for crafting beautiful and intuitive web experiences.
 With a solid foundation in HTML, CSS, JavaScript, and ReactJS, I thrive on turning ideas into reality through code.
 
