@@ -12,5 +12,4 @@ I love the challenge of solving problems and creating seamless user experiences 
 ✨ Currently, I'm focused on enhancing my skills in responsive design and state management with React. I enjoy collaborating on projects that push my boundaries and allow me to learn from others in the community.
 🚀 I'm excited about the future of web development and am always looking for new challenges and opportunities to contribute.
 
-If you're interested in collaborating or just want to chat about tech, feel free to reach out! Feel free to customize any part of the text to better reflect your personality or specific interests.
-This version presents you as enthusiastic, approachable, and committed to growth in your field!
+If you're interested in collaborating or just want to chat about tech, feel free to reach out!
