@@ -1,6 +1,6 @@
-# Hi 👋, I'm [Ebenezer Kwabena Tio (Kobby)]  
+# Hi 👋, I'm Ebenezer Kwabena Tio (Kobby)  
 
-A passionate junior front-end developer from [Ghana]!  
+A passionate junior front-end developer from Ghana!  
 
 ---
 
