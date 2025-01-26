@@ -1,5 +1,5 @@
 # 💫 About Me:
- About Me:<br><br>    🌟 I'm a front-end developer passionate about crafting beautiful and intuitive web experiences.<br>    🌱 Currently learning ThreeJS, TailwindCSS, webGL and C++.<br>    💻 Turning ideas into reality using HTML, CSS, JavaScript, and ReactJS.<br>    🚀 Exploring new frameworks, design principles, and the latest web technologies.<br>    💬 Open to discussions about web development, problem-solving, and creating seamless user experiences.<br>
+<br>    🌟 I'm a front-end developer passionate about crafting beautiful and intuitive web experiences.<br>    🌱 Currently learning ThreeJS, TailwindCSS, webGL and C++.<br>    💻 Turning ideas into reality using HTML, CSS, JavaScript, and ReactJS.<br>    🚀 Exploring new frameworks, design principles, and the latest web technologies.<br>    💬 Open to discussions about web development, problem-solving, and creating seamless user experiences.<br>
 
 
 ## 🌐 Socials:
