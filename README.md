@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌟 I'm a the Founder & CEO of a passionate software development agency called ARCHIVE!, we take pride in crafting beautiful and intuitive web experiences.<br>🌱 Currently learning ThreeJS, TailwindCSS, webGL, Web Animations and C++.<br>💻 Turning ideas into reality using HTML, CSS, JavaScript, TypeScript, React and Next JS.<br>🚀 Exploring new frameworks, design principles, and the latest web technologies.<br>💬 Open to discussions about web development, problem-solving, and creating seamless user experiences.
+🌟 I'm a the Founder & CEO of a passionate software development agency called ARCHIVE STUDIOS!, we take pride in crafting beautiful and intuitive web experiences.<br>🌱 Currently learning ThreeJS, TailwindCSS, webGL, Web Animations and C++.<br>💻 Turning ideas into reality using HTML, CSS, JavaScript, TypeScript, React and Next JS.<br>🚀 Exploring new frameworks, design principles, and the latest web technologies.<br>💬 Open to discussions about web development, problem-solving, and creating seamless user experiences.
 
 
 ## 🌐 Socials:
